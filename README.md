@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ember
+👋 Hi, I’m Ember
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning Excel, Python, SQL
 - 😄 Pronouns: he/they
